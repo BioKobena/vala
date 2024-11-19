@@ -43,6 +43,6 @@
 ### 2️⃣ **Cloner le projet**
 
 ```bash
-git clone https://github.com/votre-utilisateur/vala.git
+git clone https://github.com/BioKobena/vala.git
 cd vala
 # vala
