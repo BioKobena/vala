@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+# 🌟 **Vala** – Assistant Vocal pour Formulaires 🗣️📋  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![React Native](https://img.shields.io/badge/React%20Native-0.71-blue?style=for-the-badge&logo=react)  
+![Vosk](https://img.shields.io/badge/Vosk-Voice%20Recognition-brightgreen?style=for-the-badge)  
+![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)  
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-orange?style=for-the-badge)  
 
-## Get started
+---
 
-1. Install dependencies
+## 🎯 **Introduction**
 
-   ```bash
-   npm install
-   ```
+**Vala** est une application mobile conçue pour assister les personnes malvoyantes ou ayant des difficultés à remplir des formulaires en ligne. Grâce à la reconnaissance vocale, **Vala** :  
+- 🎤 **Écoute le mot-clé** *"vala"* pour s'activer.  
+- 💬 **Accompagne étape par étape** pour remplir chaque champ d'un formulaire.  
+- ✅ Facilite l'inclusion numérique en rendant les services en ligne accessibles.
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 🚀 **Fonctionnalités**
 
-In the output, you'll find options to open the app in a
+- ✅ **Activation par mot-clé** : Dites *"vala"* pour démarrer.  
+- 🗣️ **Reconnaissance vocale** : Remplissez vos formulaires à l'aide de la voix.  
+- 📋 **Guidage étape par étape** : L'application vous guide à chaque champ.  
+- 🔊 **Feedback vocal et textuel** : Confirmation en temps réel des champs remplis.  
+- 🌐 **Multilingue** : Fonctionne avec des modèles vocaux pour différentes langues (par défaut : français 🇫🇷).  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🎥 **Aperçu**
 
-## Get a fresh project
+<img src="https://via.placeholder.com/400x250.png?text=Demo+Coming+Soon" alt="Vala Demo" width="100%"/>
 
-When you're ready, run:
+---
+
+## 📦 **Installation**
+
+### 1️⃣ **Prérequis**
+
+- **Node.js** ([Télécharger ici](https://nodejs.org/))  
+- **React Native CLI** ([Configuration](https://reactnative.dev/docs/environment-setup))  
+- Un modèle de reconnaissance vocale Vosk ([Télécharger ici](https://alphacephei.com/vosk/models)).  
+
+### 2️⃣ **Cloner le projet**
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/votre-utilisateur/vala.git
+cd vala
+# vala
